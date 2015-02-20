@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"view",
+				"viewHandler"
+			],
+			[
+				"b",
+				"Body"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"gly",
+				"glyphicon-tag"
+			],
+			[
+				"N",
+				"now"
+			],
+			[
+				"new",
+				"newTaskId"
+			],
+			[
+				"evn",
+				"eventTime"
+			],
+			[
+				"Ja",
+				"JaguarDB"
+			],
+			[
+				"j",
+				"JaguarDB"
+			],
+			[
+				"tr",
+				"travel"
+			],
+			[
+				"gr",
+				"grade"
+			],
+			[
+				"ti",
+				"title"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/html.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 302.0,
+		"history":
+		[
+			"install",
+			"install git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/BigDisk/Users/sgd/Projects/animation"
+	],
+	"file_history":
+	[
+		"/Volumes/BigDisk/Users/sgd/Google Drive/Interview thoughts.html",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/Interview thoughts (1).md",
+		"/Volumes/BigDisk/Users/sgd/Projects/thinksafely.org/index.html",
+		"/Volumes/BigDisk/Users/sgd/Projects/animation/css/style.css",
+		"/Volumes/BigDisk/Users/sgd/Projects/animation/index.html",
+		"/Volumes/BigDisk/Users/sgd/Projects/insdb/InsurancePolicyAdmin/UploadedDocuments/readme",
+		"/Volumes/BigDisk/Users/sgd/Projects/gospace/gowiki/wiki.go",
+		"/Volumes/BigDisk/Users/sgd/Projects/gospace/gowiki/test.txt",
+		"/Volumes/BigDisk/Users/sgd/Projects/schmoilerplate/index.html",
+		"/Volumes/BigDisk/Users/sgd/.zshrc",
+		"/Volumes/BigDisk/Users/sgd/web/2.html",
+		"/Volumes/BigDisk/Users/sgd/.zshenv",
+		"/Volumes/C-1/ScannerData/arc_log.csv",
+		"/Volumes/BigDisk/Users/sgd/Projects/RangeCastReplacement/log files/FreeSCAN Autosave Log - 7-13-2014.fslog",
+		"/Volumes/BigDisk/Users/sgd/Projects/RangeCastReplacement/FreeSCAN Autosave Log - 10-11-2014.csv",
+		"/Volumes/BigDisk/Users/sgd/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/Preferences.sublime-settings",
+		"/Volumes/BigDisk/Users/sgd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/140327GEN2-PC/ScannerData/FreeSCAN Autosave Log - 7-18-2014.fslog",
+		"/Volumes/140327GEN2-PC/ScannerData/testlog.csv",
+		"/Volumes/BigDisk/Users/sgd/Projects/ExtraNerds/Feasting Season/60dayplan/index.html",
+		"/Volumes/BigDisk/Users/sgd/Projects/ExtraNerds/Feasting Season/60dayplan/service.html",
+		"/Volumes/BigDisk/Users/sgd/bashcheck.sh",
+		"/Volumes/C/projects/60dayplan/index.html",
+		"/Volumes/BigDisk/Users/sgd/update.sh",
+		"/Volumes/BigDisk/Users/sgd/hello.go",
+		"/Volumes/BigDisk/Users/sgd/projects/mean-stack-skeleton/routes/index.js",
+		"/Volumes/BigDisk/Users/sgd/projects/mean-stack-skeleton/views/index.jade",
+		"/Volumes/BigDisk/Users/sgd/projects/node/file-system/watcher.js",
+		"/Volumes/BigDisk/Users/sgd/projects/VantageTimesheet/VTimeSheet_30May2014/Web.config",
+		"/Volumes/BigDisk/Users/sgd/projects/regsite/app/controllers/registration_controller.rb",
+		"/Volumes/BigDisk/Users/sgd/Library/Application Support/Mou/CSS/Clearness.css",
+		"/Volumes/BigDisk/Users/sgd/projects/regsite/app/controllers/application_controller.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/partials/temp.html",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/index.html",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/js/site.js",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/index.html",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/js/directives.js",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/partials/partial2.html",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/partials/partial1.html",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/js/app.js",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/js/controllers.js",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/js/services.js",
+		"/Volumes/BigDisk/Users/sgd/projects/ang/app/js/filters.js",
+		"/Volumes/BigDisk/Users/sgd/projects/VantageTimesheet/bug estimates.txt",
+		"/Volumes/BigDisk/Users/sgd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/BigDisk/Users/sgd/projects/mean-stack-skeleton/app.js",
+		"/Volumes/BigDisk/Users/sgd/projects/Insurance Policy Website/tags.html",
+		"/Volumes/C/Users/sgd/AppData/Local/Temp/Temp1_jquery.inputmask-2.x.zip/jquery.inputmask-2.x/README.md",
+		"/Volumes/BigDisk/Users/sgd/Library/Application Support/Sublime Text 3/Packages/User/html.sublime-build",
+		"/Volumes/BigDisk/Users/sgd/projects/mean-vagrant/Vagrantfile",
+		"/Volumes/BigDisk/Users/sgd/projects/mean-stack-skeleton/package.json",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/views/candidates/_form.html.erb",
+		"/private/var/folders/xs/2xw0nbz15rb_54sl074kq_yc0000gn/T/fz3temp-1/Index.cshtml",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/Gemfile",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/views/candidates/index.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/views/layouts/application.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/views/candidates/new.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/views/candidates/edit.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/assets/javascripts/application.js",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/views/candidates/show.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/assets/stylesheets/application.css.scss",
+		"/Volumes/BigDisk/Users/sgd/projects/simplehire/app/assets/stylesheets/application.css.scss.css",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/stylesheets/application.css",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/views/layouts/application.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/views/signup/index.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/stylesheets/scaffolds.css.scss",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/temp.css",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/Gemfile",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/controllers/signup_controller.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/javascripts/application.js",
+		"/Volumes/BigDisk/Users/sgd/Downloads/SalesJunction/www_SalesJunction/www_SalesJunction/Simple.asp",
+		"/Volumes/BigDisk/Users/sgd/projects/sendadonut/index_oem.html",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/controllers/recruiters_controller.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/sendadonut/index.html",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/db/migrate/20131119064039_add_devise_to_recruiters.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/db/migrate/20131119064142_add_devise_to_candidates.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/models/recruiter.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/models/candidate.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/controllers/candidates_controller.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/config/initializers/devise.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/config/routes.rb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/stylesheets/signup.css.scss",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/stylesheets/scaffolds.css.scss.rhtml",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/images/faded_chairs.jpg",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/stylesheets/recruiters.css.scss",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/views/candidates/index.html.erb",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/Gemfile.lock",
+		"/Volumes/BigDisk/Users/sgd/projects/hirepotamus/app/assets/javascripts/candidates.js.coffee",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/writeagreatjobdescription/index.html",
+		"/Volumes/Git 1.8.4.2 Snow Leopard Intel Universal/uninstall.sh",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/writeagreatjobdescription/emailresponse.php",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/Projects/ScannerFiles.sln.DotSettings.user",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/agilefortunecookie/agilefortunecookie/app.js",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/agilefortunecookie/agilefortunecookie/views/layout.jade",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/careerhero/index.html",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/agilefortunecookie/.git/info/exclude",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/careerhero/readme.md",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/careerhero/.git/COMMIT_EDITMSG",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/go/hello.go",
+		"/Volumes/Git 1.8.3.2 Snow Leopard Intel Universal/setup git PATH for non-terminal programs.sh",
+		"/Volumes/BigDisk/Users/sgd/Google Drive/careerhero/forheroes.html",
+		"/Volumes/BigDisk/Users/sgd/Library/Application Support/Sublime Text 2/Packages/User/go.sublime-build",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/agilefortunecookie/routes/index.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/agilefortunecookie/public/stylesheets/style.css",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/agilefortunecookie/routes/user.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/agilefortunecookie/app.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/agilefortunecookie/views/index.jade",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/agilefortunecookie/public/static/home.html",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/agilefortunecookie/views/layout.jade",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/views/task.jade",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/atTask.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/package.json",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/rootapp.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/atwatcherTest.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/atWatcher.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/sendsome.at.js",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/tasks.db",
+		"/Volumes/BigDisk/Users/sgd/Dropbox/Node projects/sendAt/sendsome.db",
+		"/C/Users/sdexter/Google Drive/value statement.txt",
+		"/C/Users/sdexter/Google Drive/laddercreeknotes.txt",
+		"/E/Setup/SDKSetup.exe.config",
+		"/C/TrainTools/Projects/Demo_LS_EM_9_3/PDS/DBF_PDS_RT_2/WORKING - Copy.DBF",
+		"/C/Users/sdexter/Dropbox/Node projects/sendAt/views/layout.jade",
+		"/C/Users/sdexter/Dropbox/Node projects/sendAt/views/task.jade",
+		"/C/Users/sdexter/Dropbox/Node projects/sendAt/sendsome.at.js",
+		"/C/Users/sdexter/Dropbox/Node projects/sendAt/rootapp.js",
+		"/C/Users/sdexter/Dropbox/CPA/PDS_RT/PDS_RT/Public/Common/Thread.cpp"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"field",
+			"primary",
+			"highlight",
+			"executable",
+			"\n",
+			"\"	\"",
+			"max",
+			"ctrl+alt+k",
+			"\n",
+			"?\");",
+			"max",
+			"c:/Apache24",
+			"max",
+			"c:/Apache24"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"form-group",
+			"d:/apache/Apache24"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jsanimation.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
